@@ -10,18 +10,6 @@ Consistently styled code can:
 
 
 
-## Table of contents
-- [General principles](#general-principles)
-- [HTML guidelines](#html-guidelines)
-- [CSS guidelines](#css-guidelines)
-- [JS guidelines](#js-guidelines)
-- [KSS-node styleguide](#kss-node-styleguide)
-- [Workflows](#workflows)
-- [Frameworks](#frameworks)
-- [Resources](#resources)
-
-
-
 ## General principles
 generic overview of best practices for frontend development. coming someday..
 
