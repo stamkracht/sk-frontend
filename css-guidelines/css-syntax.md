@@ -29,7 +29,7 @@
 - Only chain selectors for the use of states.
 - Use '!important' in the overrides of the inverted triangle.
 
-### Example: specificity
+#### Example: specificity
 ```css
 /* not using IDs and limited the number of elements to 2. */
 .selector-1 .level-1 {
@@ -52,7 +52,7 @@
 - A space before the opening brace.
 - Closing brace on a new line.
 
-### Example: selectors
+#### Example: selectors
 ```css
 .selector-1,
 .selector-2,
@@ -71,7 +71,7 @@
   + Prefix utilities with 'u-'.
   + Prefix javascript hooks with 'js-'.
 
-### Example: naming selectors
+#### Example: naming selectors
 ```css
 .o-object-name {}
 .c-component-name {}
@@ -87,7 +87,7 @@
 - End each declaration with a trailing semi-colon.
 - Don't write prefixes (let PostCSS Autoprefixer deal with that).
 
-### Example: declarations
+#### Example: declarations
 ```css
 .selector-1 {
   position: relative;
@@ -102,7 +102,7 @@
 ## One-liners
 Selectors with 1 declaration can be written on 1 line.
 
-### Example: one-liners
+#### Example: one-liners
 ```css
 .selector-1 { display: block; }
 ```
@@ -116,7 +116,7 @@ Selectors with 1 declaration can be written on 1 line.
 - Avoid nesting more than 2 level deep.
 - One empty line between closely related selectors.
 
-### Example: SCSS
+#### Example: SCSS
 ```
 .selector-1 {
   display: none;
