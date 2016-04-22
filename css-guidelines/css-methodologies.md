@@ -34,7 +34,7 @@
 7. Trumps
     - Utilities and overrides.
 
-### Example: ordering CSS groups
+#### Example: ordering CSS groups
 ```
 /css
   ├── 1-settings/
@@ -55,7 +55,7 @@
 1. Prefix the file names with their belonging group. This way, it will always be clear where they belong inside the inverted triangle. For example if it's not possible/prefered to follow the directory structure and the file ends up somewere without any context.
 2. Whenever a CSS module has multiple words, use the dash to connect them. Only use the dot for seperating the group name from the module name.
 
-### Example: file naming
+#### Example: file naming
 ```
 settings.[name-example].scss
 functions.[name-example].scss
@@ -73,7 +73,7 @@ overrides.[name].scss
 ## BEM methodology
 <sup>4</sup>Meaning block, element, modifier. It is a front-end naming methodology. A smart way of naming your CSS classes to give them more transparency and meaning to other developers. They are far more strict and informative, which makes the BEM naming convention ideal for teams of developers on larger projects that might last a while.
 
-### Example: BEM methodology
+#### Example: BEM methodology
 ```
 .block {}
 .block__element {}
@@ -117,7 +117,7 @@ overrides.[name].scss
   - animation
   - keyframes
 
-### Example: ordering CSS properties
+#### Example: ordering CSS properties
 ```css
 .selector {
   /* Layout */
