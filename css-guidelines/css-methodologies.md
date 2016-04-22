@@ -1,14 +1,14 @@
 ## Table of contents
 - [ITCSS methodology](#itcss-methodology)
   + [Ordering CSS groups](#ordering-css-groups)
-  + [Example: ordering CSS groups](#example:-ordering-css-groups)
+  + [Example: ordering CSS groups](#example-ordering-css-groups)
   + [File naming](#file-naming)
-  + [Example: file naming](#example:-file-naming)
+  + [Example: file naming](#example-file-naming)
 - [BEM methodology](#bem-methodology)
-  + [Example: BEM methodology](#example:-bem-methodology)
+  + [Example: BEM methodology](#example-bem-methodology)
 - [Outside-in methodology](#outside-in-methodology)
   + [Ordering CSS properties](#ordering-css-properties)
-  + [Example: ordering CSS properties](#example:-ordering-css-properties)
+  + [Example: ordering CSS properties](#example-ordering-css-properties)
 - [Resources](#resources)
 
 
@@ -87,35 +87,35 @@ overrides.[name].scss
 
 ### Ordering CSS properties
 1. Layout
-    1. z-index, 
-    2. overflow 
-    3. position
-    4. float
-    5. clear
+  1. z-index, 
+  2. overflow 
+  3. position
+  4. float
+  5. clear
 2. Box model
-    1. content
-    2. box-shadow
-    3. display
-    4. width
-    5. height
-    6. margin
-    7. border
-    8. border-radius
-    9. padding
+  1. content
+  2. box-shadow
+  3. display
+  4. width
+  5. height
+  6. margin
+  7. border
+  8. border-radius
+  9. padding
 3. Color
-    1. color
-    2. background
+  1. color
+  2. background
 4. Typography
-    1. font-family
-    2. font-size
-    3. text-align
-    4. text-transform
+  1. font-family
+  2. font-size
+  3. text-align
+  4. text-transform
 5. Miscellaneous 
-    1. cursor
+  1. cursor
 6. Animation 
-    1. transition
-    2. animation
-    3. keyframes
+  1. transition
+  2. animation
+  3. keyframes
 
 ### Example: ordering CSS properties
 ```css
