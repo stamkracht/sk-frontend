@@ -93,29 +93,29 @@ overrides.[name].scss
   - float
   - clear
 2. Box model
-  + content
-  + box-shadow
-  + display
-  + width
-  + height
-  + margin
-  + border
-  + border-radius
-  + padding
+  - content
+  - box-shadow
+  - display
+  - width
+  - height
+  - margin
+  - border
+  - border-radius
+  - padding
 3. Color
-  1. color
-  2. background
+  - color
+  - background
 4. Typography
-  1. font-family
-  2. font-size
-  3. text-align
-  4. text-transform
+  - font-family
+  - font-size
+  - text-align
+  - text-transform
 5. Miscellaneous 
-  1. cursor
+  - cursor
 6. Animation 
-  1. transition
-  2. animation
-  3. keyframes
+  - transition
+  - animation
+  - keyframes
 
 ### Example: ordering CSS properties
 ```css
@@ -167,6 +167,6 @@ overrides.[name].scss
 
 ## Resources
 1. [Managing CSS Projects with ITCSS](https://www.youtube.com/watch?v=1OKZOV-iLj4 "youtube.com/")
-2. [Outside In” — Ordering CSS Properties by Importance](http://webdesign.tutsplus.com/articles/outside-in-ordering-css-properties-by-importance--cms-21685 "webdesign.tutsplus.com/articles/")
+2. [Outside In — Ordering CSS Properties by Importance](http://webdesign.tutsplus.com/articles/outside-in-ordering-css-properties-by-importance--cms-21685 "webdesign.tutsplus.com/articles/")
 3. [Manage large-scale web projects with new CSS architecture ITCSS](http://www.creativebloq.com/web-design/manage-large-scale-web-projects-new-css-architecture-itcss-41514731 "creativebloq.com/web-design/")
 4. [Getting your head 'round BEM syntax](http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/ "csswizardry.com/2013/01/")
