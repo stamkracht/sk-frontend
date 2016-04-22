@@ -87,21 +87,21 @@ overrides.[name].scss
 
 ### Ordering CSS properties
 1. Layout
-  1.1. z-index, 
-  1.2. overflow 
-  1.3. position
-  1.4. float
-  1.5. clear
+  - z-index, 
+  - overflow 
+  - position
+  - float
+  - clear
 2. Box model
-  1. content
-  2. box-shadow
-  3. display
-  4. width
-  5. height
-  6. margin
-  7. border
-  8. border-radius
-  9. padding
+  + content
+  + box-shadow
+  + display
+  + width
+  + height
+  + margin
+  + border
+  + border-radius
+  + padding
 3. Color
   1. color
   2. background
