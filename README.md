@@ -32,8 +32,8 @@ guidelines for writing structured readable HTML. coming someday..
 
 
 
-## CSS guidelines
-guidelines for writing structured readable CSS. coming someday..
+## [CSS guidelines](css-guidelines/README.md)
+Guidelines for writing structured, scalable, maintainable and readable stylesheets.
 
 
 
