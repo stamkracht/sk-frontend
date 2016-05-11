@@ -30,8 +30,8 @@ guidelines for writing structured readable JS. coming someday..
 
 
 
-## KSS-node styleguide
-explanation about kss-node styleguide and a quick start template for it. coming someday..
+## [Michelangelo Styleguide](https://github.com/stamkracht/michelangelo)
+A custom template for the kss-node living style guide.
 
 
 
